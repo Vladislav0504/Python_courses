@@ -1,0 +1,20 @@
+Анализ кода Python:
+
+pycodestyle
+pydocstyle
+pyflakes
+pylint
+vulture
+prospector (можно prospector --strictness veryhigh file.py)
+
+Код:
+requests
+numpy
+simple-crypt --no-dependencies
+crypto
+pycryptodome
+bs4
+html5lib
+xlrd
+xmltodict
+matplotlib

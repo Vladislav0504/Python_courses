@@ -1,0 +1,1 @@
+Запускаем файл html_webserver.py. В браузере http://localhost:8000 или http://localhost:8000/cgi-bin/test.py.
